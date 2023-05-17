@@ -21,8 +21,10 @@
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=752337625&theme=xcode)](https://github.com/752337625/vite-electron-plugin)
   <div align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=752337625" />
   </div>
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=752337625&theme=vue)](https://github.com/752337625/vite-electron-plugin)
+  
 </div>
