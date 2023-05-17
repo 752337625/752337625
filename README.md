@@ -3,9 +3,7 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);请记得那些对你好的人，因为他本可以不这样&center=true&size=27" alt="Typing SVG" />
-    </a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E8%AF%B7%E8%AE%B0%E5%BE%97%E9%82%A3%E4%BA%9B%E5%AF%B9%E4%BD%A0%E5%A5%BD%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%9B%A0%E4%B8%BA%E4%BB%96%E6%9C%AC%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%BF%99%E6%A0%B7" alt="Typing SVG" /></a>
   </div>
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
